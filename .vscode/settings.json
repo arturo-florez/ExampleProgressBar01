@@ -1,0 +1,5 @@
+{
+    "pylint.severity": {
+        "convention": "Hint"
+    }
+}
